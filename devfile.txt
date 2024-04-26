@@ -1,4 +1,3 @@
 hello sultan
 winter
-good
-bad
+
